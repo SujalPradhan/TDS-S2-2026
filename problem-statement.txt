@@ -1,0 +1,9 @@
+Define, Develop, Track, Test,  Dockerise, Deploy
+
+Design an AI chatbot that detects weather-related queries and dynamically calls a live weather tool to fetch and synthesize real-time data into intelligent, conversational responses.
+
+
+
+
+
+User Input->LLM determines uses intent->Payload to the Api->Response from the Api(Structed weather JSON)--> LLm to format the final answer for us
